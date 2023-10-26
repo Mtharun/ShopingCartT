@@ -1,0 +1,42 @@
+.cart-area{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin: 15px;
+  align-items: center;
+  justify-content: center;
+}
+
+img{
+  width: 250px;
+  height: 130px;
+  object-fit: contain;
+}
+
+button{
+  padding: 7px;
+  width: max-content;
+  margin: 0 auto;
+}
+
+.card{
+  width: 18rem;
+  margin: 10px;
+} 
+
+.nav-bar {
+  width: 85%;
+}
+.navBar {
+  background-color: #f8f9fa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+footer{
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
