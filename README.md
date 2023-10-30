@@ -8,7 +8,7 @@ This App will have a product details and add and remove information once you cli
     npm run dev
  
   `
--[live server](https nelitfy)
+-[live server](https://illustrious-churros-1bb3e9.netlify.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
